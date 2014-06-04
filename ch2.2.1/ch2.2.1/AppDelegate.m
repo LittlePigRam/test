@@ -13,6 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    NSLog("git 网页代码更改测试");
     return YES;
 }
 //应用程序从活跃状态进入到非活跃状态时调用
